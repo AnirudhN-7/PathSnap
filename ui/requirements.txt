@@ -1,0 +1,4 @@
+# Laptop 2 (UI only). The UI never needs the dataset or the ML stack.
+streamlit>=1.40
+folium>=0.15
+requests>=2.31

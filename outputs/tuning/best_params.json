@@ -1,0 +1,14 @@
+{
+  "best_cv_top1": 0.8526974271140553,
+  "best_trial": 27,
+  "params": {
+    "learning_rate": 0.02007297663785479,
+    "max_iter": 600,
+    "max_leaf_nodes": 28,
+    "min_samples_leaf": 20,
+    "l2_regularization": 0.24310450760896485,
+    "max_features": 0.5271565441073823
+  },
+  "n_trials": 30,
+  "tuning_time_s": 766.0
+}

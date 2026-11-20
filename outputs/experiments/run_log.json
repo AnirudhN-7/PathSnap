@@ -1,0 +1,33 @@
+{
+  "args": {
+    "models": "gaussian_nb,logistic_regression,random_forest,hist_gradient_boosting,mlp",
+    "max_train_rows": 400000,
+    "folds": 5
+  },
+  "seed": 42,
+  "features": [
+    "dist",
+    "dist_rank",
+    "dist_minus_min",
+    "dist_ratio",
+    "proj_t",
+    "arc_len",
+    "heading_cos",
+    "heading_valid",
+    "dist_prev_pt",
+    "dist_next_pt",
+    "has_reverse",
+    "to_out_deg",
+    "from_in_deg",
+    "n_cand",
+    "speed",
+    "dt_prev",
+    "dt_next",
+    "turn_cos"
+  ],
+  "excluded_trips": [
+    "00000033",
+    "00000054"
+  ],
+  "time": "2026-11-18 10:06:34"
+}

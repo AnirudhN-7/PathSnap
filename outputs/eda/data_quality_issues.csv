@@ -1,0 +1,54 @@
+trip,partition,issue,value
+00000001,train,implausible GPS jumps (>50 m/s),340
+00000001,train,fragmented road network,175
+00000002,train,reference route far from GPS,p95 242 m
+00000002,train,large time gap,max 160 s
+00000002,train,route has non-contiguous steps,0.996
+00000006,train,large time gap,max 301 s
+00000011,train,large time gap,max 909 s
+00000013,train,implausible GPS jumps (>50 m/s),112
+00000014,train,large time gap,max 72 s
+00000019,train,route has non-contiguous steps,0.994
+00000021,train,large time gap,max 2161 s
+00000024,train,implausible GPS jumps (>50 m/s),44
+00000024,train,large time gap,max 458 s
+00000028,train,implausible GPS jumps (>50 m/s),20
+00000028,train,large time gap,max 196 s
+00000032,train,implausible GPS jumps (>50 m/s),889
+00000032,train,fragmented road network,126
+00000033,train,reference route far from GPS,p95 142 m
+00000033,train,route has non-contiguous steps,0.994
+00000035,train,fragmented road network,119
+00000041,train,large time gap,max 89 s
+00000041,train,route has non-contiguous steps,0.997
+00000042,train,large time gap,max 670 s
+00000042,train,route has non-contiguous steps,0.999
+00000043,train,reference route far from GPS,p95 70 m
+00000043,train,implausible GPS jumps (>50 m/s),34
+00000043,train,large time gap,max 230 s
+00000043,train,fragmented road network,421
+00000044,train,large time gap,max 341 s
+00000053,train,implausible GPS jumps (>50 m/s),7
+00000054,train,reference route far from GPS,p95 209 m
+00000054,train,large time gap,max 79 s
+00000054,train,fragmented road network,213
+00000055,train,implausible GPS jumps (>50 m/s),18
+00000055,train,large time gap,max 184 s
+00000069,train,large time gap,max 2658 s
+00000069,train,route has non-contiguous steps,0.998
+00000070,train,large time gap,max 152 s
+00000074,train,fragmented road network,118
+00000075,train,route has non-contiguous steps,0.981
+00000078,train,large time gap,max 52810 s
+00000080,train,route has non-contiguous steps,0.993
+00000081,train,large time gap,max 536 s
+00000084,train,large time gap,max 312 s
+00000085,train,large time gap,max 70 s
+00000086,train,fragmented road network,193
+00000086,train,route has non-contiguous steps,0.999
+00000088,train,large time gap,max 232 s
+00000089,train,large time gap,max 193 s
+00000089,train,route has non-contiguous steps,0.996
+00000090,train,large time gap,max 153064 s
+00000065,student_test,large time gap,max 210 s
+00000076,student_test,route has non-contiguous steps,0.997

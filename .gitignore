@@ -18,7 +18,3 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 .env
-
-# Team-internal files (do not upload)
-/GIT_PUSH_PLAN.md
-/CONTRIBUTIONS.md

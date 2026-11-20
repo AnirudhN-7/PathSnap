@@ -1,0 +1,2 @@
+model,beta,decode_time_s,clf_top1_accuracy,clf_candidate_miss_rate,clf_route_continuity,clf_n_eval_points,hmm_top1_accuracy,hmm_candidate_miss_rate,hmm_route_continuity,hmm_n_eval_points
+gaussian_nb,2.0,2.3475515842437744,0.8208331155595046,0.00047039147023464345,0.9151436031331592,19133,0.9309569853133329,0.00047039147023464345,0.9812532637075718,19133
